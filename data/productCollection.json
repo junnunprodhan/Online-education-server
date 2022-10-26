@@ -1,0 +1,49 @@
+[
+    {
+      "id": "1",
+      "title": "JavaScript",
+      "price": "50",
+      "time": 300,
+      "img": "https://ibb.co/bb7Rv00"
+  
+    },
+    {
+      "id": "2",
+      "title": "React",
+      "price": "100",
+      "time": 200,
+      "img": "https://ibb.co/Yd9dVyS"
+  
+    },
+    {
+      "id": "3",
+      "title": "Python",
+      "price": 150,
+      "time": "400",
+      "img": "https://ibb.co/XkzwVF6"
+  
+    },
+    {
+      "id": "4",
+      "title": "Php",
+      "price": 100,
+      "time": "500",
+      "img": "https://ibb.co/KmyPBwP"
+  
+    },
+    {
+      "id": "5",
+      "title": "Java",
+      "price": 500,
+      "time": "400",
+      "img": "https://ibb.co/xjgBSS4"
+  
+    },
+    {
+      "id": "6",
+      "title": "NodeJS",
+      "price": 200,
+      "time": "100",
+      "img": "https://ibb.co/4RbQrRB"
+    }
+  ]
