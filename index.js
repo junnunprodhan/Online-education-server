@@ -22,7 +22,6 @@ app.get('/courses/:id', (req, res) => {
     res.send(selectedCourse);
 });
 
-
 app.listen(port, () => {
     console.log('Dragon News Server running on port', port);
 })
