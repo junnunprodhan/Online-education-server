@@ -4,7 +4,7 @@
       "title": "JavaScript",
       "price": "50",
       "time": 300,
-      "img": "https://ibb.co/bb7Rv00"
+      "img": "https://img.freepik.com/premium-photo/javascript-programming-code-abstract-technology-background_272306-155.jpg?w=2000"
   
     },
     {
@@ -12,7 +12,7 @@
       "title": "React",
       "price": "100",
       "time": 200,
-      "img": "https://ibb.co/Yd9dVyS"
+      "img": "https://cdn-images-1.medium.com/max/800/1*zRJjAN-REufPq8D8ZpQDeg.jpeg"
   
     },
     {
@@ -20,7 +20,7 @@
       "title": "Python",
       "price": 150,
       "time": "400",
-      "img": "https://ibb.co/XkzwVF6"
+      "img": "https://blog.eduonix.com/wp-content/uploads/2018/09/Scientific-Python-Scipy-696x500.jpg"
   
     },
     {
@@ -28,7 +28,8 @@
       "title": "Php",
       "price": 100,
       "time": "500",
-      "img": "https://ibb.co/KmyPBwP"
+      "img": "https://media.istockphoto.com/photos/inscription-against-laptop-and-code-background-learn-php-programming-picture-id1297752994?b=1&k=20&m=1297752994&s=170667a&w=0&h=HGe7dfYaoX0cfBpFp16nptqI_d0QFsx3ij65ES9aJVQ="
+  
   
     },
     {
@@ -36,7 +37,7 @@
       "title": "Java",
       "price": 500,
       "time": "400",
-      "img": "https://ibb.co/xjgBSS4"
+      "img": "https://media.istockphoto.com/photos/java-programming-concept-virtual-machine-on-server-room-background-picture-id1131109259?k=20&m=1131109259&s=612x612&w=0&h=fusjYOp-WHTyU-pavkkMzljwQ2DKuzt9aj7pcwpMOY4="
   
     },
     {
@@ -44,6 +45,6 @@
       "title": "NodeJS",
       "price": 200,
       "time": "100",
-      "img": "https://ibb.co/4RbQrRB"
+      "img": "https://mochikit.com/wp-content/uploads/2019/01/Node.png"
     }
   ]
